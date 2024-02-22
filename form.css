@@ -1,0 +1,36 @@
+      h1 {
+        text-align: center;
+      }
+      
+      body {
+        background-color:lightslategrey;
+        font-family:Oswald;
+      }
+      div{
+        text-align: left;
+        width: 240px;
+        height: 655px;
+        padding: 20px;
+        border: 2px solid white;
+        margin: auto;
+        background-color: white;
+        border-radius: 10px;
+      }
+      
+      input[type="submit"]{
+        color: white;
+        background-color: green;
+      }
+      
+      input[type="reset"]{
+        color: white;
+        background-color: red;
+      }
+      
+      input[type="text"], input[type="password"], input[type="date"]{
+        width: 98%;
+      }
+      
+      input[type="radio"]{
+        text-align: center;
+      }
